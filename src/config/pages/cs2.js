@@ -108,13 +108,13 @@
       showInsecure: false,
     },
     labels: {
-      itemPlural: "exploits",
-      itemSingular: "exploit",
-      sectionAriaLabel: "CS2 exploits",
+      itemPlural: "cheats",
+      itemSingular: "cheat",
+      sectionAriaLabel: "CS2 cheats",
       summaryAriaLabel: "CS2 catalog summary",
       loadingMessage: "Loading CS2 catalog...",
-      emptyLoadMessage: "The CS2 catalog is ready, but no exploits have been added yet.",
-      emptyFilteredMessage: "No CS2 exploits match the current filters.",
+      emptyLoadMessage: "The CS2 catalog is ready, but no cheats have been added yet.",
+      emptyFilteredMessage: "No CS2 cheats match the current filters.",
       statsShowingPrefix: "Showing",
       trackingUnavailable: "No tracking available",
       statusLabels: {
